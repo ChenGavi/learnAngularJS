@@ -37,7 +37,7 @@ describe('Protractor Element Demo',function() {
         {
             item.getAttribute("value").then(function(values)
             {
-                if(String(values)==String(c))
+                if(String(values)===String(c))
                 {
                     item.click();
                 }
