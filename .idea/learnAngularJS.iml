@@ -12,5 +12,7 @@
     <orderEntry type="library" name="@types/typescript-deferred" level="application" />
     <orderEntry type="library" name="@types/express-actuator" level="application" />
     <orderEntry type="library" name="@types/expect.js" level="application" />
+    <orderEntry type="library" name="@types/mocha" level="application" />
+    <orderEntry type="library" name="@types/angular-pdfjs-viewer" level="application" />
   </component>
 </module>

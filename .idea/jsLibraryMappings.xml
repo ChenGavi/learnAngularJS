@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="JavaScriptLibraryMappings">
-    <file url="PROJECT" libraries="{@types/expect.js, @types/express, @types/express-actuator, @types/typescript-deferred}" />
+    <file url="file://$PROJECT_DIR$" libraries="{@types/expect.js, @types/express, @types/express-actuator, @types/typescript-deferred, HTML}" />
+    <file url="PROJECT" libraries="{@types/angular-pdfjs-viewer, @types/expect.js, @types/express, @types/express-actuator, @types/mocha, @types/typescript-deferred, HTML}" />
+    <includedPredefinedLibrary name="HTTP Response Handler" />
     <includedPredefinedLibrary name="Node.js Core" />
   </component>
 </project>
